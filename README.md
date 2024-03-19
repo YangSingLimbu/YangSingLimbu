@@ -18,6 +18,6 @@
     MongoDB
     Machine Learning algorithms and techniques
 
-🛠️ About Me: I'm a coding enthusiast who's constantly exploring the world of web development and AI/ML. Currently, I'm working on [mention any ongoing projects or goals]. Let's connect and collaborate on exciting projects together!
+🛠️ About Me: I'm a coding enthusiast who's constantly exploring the world of Web development and AI/ML. Let's connect and collaborate on exciting projects together!
 
 📫 How to Reach Me: Feel free to email me at yangsinglimbu@gmail.com

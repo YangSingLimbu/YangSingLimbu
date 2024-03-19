@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hi there, I'm YangSing Limbu!
 
-<!--
-**YangSingLimbu/YangSingLimbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student studying BCA in Jhapa, Nepal, with a passion for ML/AI and Web development.
 
-Here are some ideas to get you started:
+👀 What I'm Interested In:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    MERN Stack Development
+    Machine Learning
+    Blockchain
+    Artificial Intelligence
+
+🌱 What I'm Currently Learning:
+
+    Node.js
+    Express.js
+    React.js
+    Next.js
+    MongoDB
+    Machine Learning algorithms and techniques
+
+🛠️ About Me: I'm a coding enthusiast who's constantly exploring the world of web development and AI/ML. Currently, I'm working on [mention any ongoing projects or goals]. Let's connect and collaborate on exciting projects together!
+
+📫 How to Reach Me: Feel free to email me at yangsinglimbu@gmail.com
